@@ -25,7 +25,7 @@ Core Libraries: random (Standard Library)
 
 🚀📋 Code Architecture Overview
 
-Plaintext
+
 ├── QUIZ_DATA          # List of dictionaries holding raw questions, options, and answers
 └── run_quiz()         # Core execution engine
     ├── Deep copy dataset
